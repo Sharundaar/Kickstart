@@ -1,0 +1,1 @@
+This is a repository for the project used to kickstart a gamejam type project
